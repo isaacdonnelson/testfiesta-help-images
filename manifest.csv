@@ -1,0 +1,114 @@
+article_id,step,caption,file
+13431145,1,Import test cases menu: Import from files.,13431145/01-import-from-files.png
+13431145,2,Integrations page with the import card highlighted,13431145/02-integrations-import-card.png
+14627294,1,Test Cases page with the new folder icon highlighted,14627294/01-new-folder-icon.png
+14627294,2,Create folder panel with Folder name Cart and Create highlighted,14627294/02-create-folder-panel.png
+14627294,3,Folder tree with Cart selected,14627294/03-folder-tree-cart.png
+14627306,1,Create test run form with Name and both dates highlighted,14627306/01-create-test-run.png
+14627306,2,Test runs list with Start Run highlighted in the Progress column,14627306/02-start-run-link.png
+14627374,1,Test plans page with Create test plan + highlighted,14627374/01-create-test-plan-button.png
+14627374,2,Create test plan form named Release smoke with v1 picked,14627374/02-plan-form-milestone.png
+14627374,3,"Add test runs: tick the runs for this plan, such as Shopfront smoke.",14627374/03-plan-add-runs.png
+14627383,1,Milestones page with Create milestone + under No active milestones yet,14627383/01-create-milestone-button.png
+14627383,2,"Test activities, Test runs tab, link icon on Shopfront smoke highlighted",14627383/02-test-activities-link.png
+14627390,1,Choose Failed and the Submit new status window opens. Pick at least one tag in Tags.,14627390/01-failed-dialog.png
+14627390,2,Create a new defect with a Name and a Description. Leave Source on TestFiesta.,14627390/02-new-defect-panel.png
+14627390,3,"Defects, Open tab: your new defect with the status To do.",14627390/03-defects-list.png
+14627682,1,Custom fields list with the Used in column highlighted,14627682/01-custom-fields-list.png
+14627682,2,"Create custom field form with Used in Test case, Name Estimate (min), Data type Short text",14627682/02-create-custom-field-filled.png
+14627702,1,Setup Templates with the Test cases tab highlighted,14627702/01-templates-test-cases-tab.png
+14627702,2,Create test case template form with Template name Shopfront checkout and the custom field block added,14627702/02-template-add-field.png
+14627713,1,"Integrations page, Available tab, GitHub card with Add + highlighted",14627713/01-integrations-github-card.png
+14627713,2,The Source dropdown in Create a new defect. A connected tracker is listed here next to TestFiesta.,14627713/02-defect-source-github.png
+14627724,1,"Integrations page, Available tab, Jira card with Add + highlighted",14627724/01-integrations-jira-card.png
+14627724,2,The Source dropdown in Create a new defect. A connected tracker is listed here next to TestFiesta.,14627724/02-defect-source-jira.png
+14627732,1,"All projects list, ⋮ menu open on a test project, Archive Project highlighted",14627732/01-project-menu-archive-project.png
+14627732,2,Open the Archived tab to see archived projects.,14627732/02-show-archived-projects.png
+14627740,1,"Projects, Active tab: click Create project +.",14627740/01-projects-list-create-project.png
+14627740,2,"Create project: type a Project name, then a Project key or click Generate.",14627740/02-create-project-name-key.png
+14627740,3,"Finish the form. In an organization, click Next to reach the Integration field.",14627740/03-create-project-next-or-save.png
+14627741,1,"All projects list, ⋮ menu open on a throwaway project, Delete Project highlighted",14627741/01-project-menu-delete-project.png
+14627741,2,Delete confirmation dialog on a throwaway project,14627741/02-delete-confirm.png
+14627766,1,"Create tag form, Name smoke, Scope Project, Applies to Cases and Executions highlighted",14627766/01-create-tag-applies-to.png
+14627766,2,Case panel Tags area with smoke and Add Tags highlighted,14627766/02-case-add-tags-smoke.png
+14627771,1,"Create test case form, Template Simple (Default) highlighted",14627771/01-create-test-case-form.png
+14627771,2,Three steps written with Add step + highlighted,14627771/02-three-steps.png
+14627777,1,Test Cases page with the new folder icon next to Test folders highlighted,14627777/01-add-folder-icon.png
+14627777,2,Create folder panel with Folder name Cart and Create highlighted,14627777/02-create-folder-cart.png
+14627784,1,Edit test case page with Test format and Result format tabs highlighted,14627784/01-edit-case-format-tabs.png
+14627784,2,Templates Test results tab showing Simple Result (Default) with its Failed rule,14627784/02-test-results-tab-simple-result.png
+14627819,1,Shopfront smoke run with the Assigned To dropdown open on the cart case row,14627819/01-assigned-to-dropdown.png
+14627819,2,"Assigned work, To do tab: the cases assigned to you.",14627819/02-assigned-work-todo.png
+14627823,1,"Create test run form with Name, Start Date, and Due Date filled in and highlighted",14627823/01-create-run-dates.png
+14627826,1,Choose Failed and the Submit new status window opens. Pick at least one tag in Tags.,14627826/01-submit-new-status-tags.png
+14627826,2,Create a new defect: Name is the only required field.,14627826/02-create-new-defect-name.png
+14627826,3,"Defects, Open tab: your new defect with the status To do.",14627826/03-defects-open-tab.png
+14627833,1,Add configuration form with Group name Browsers and Chrome and Safari listed,14627833/01-add-configuration-browsers.png
+14627833,2,"In Add test runs, use Add in the Configurations column to run a plan on each configuration.",14627833/02-plan-add-runs-configurations.png
+14627850,1,Users page with the Organization Role column highlighted,14627850/01-users-organization-role-column.png
+14627850,2,Roles page with the Organization and Project tabs highlighted,14627850/02-roles-page-tabs.png
+14627854,1,"Users page, row menu open on a test user, remove option highlighted",14627854/01-users-row-remove.png
+14627873,1,"Roles page, Organization tab open",14627873/01-roles-organization-tab.png
+15704164,1,Integrations Available tab with the import card and Add + highlighted,15704164/01-import-card-add.png
+15704164,2,"Import integration form with URL, username, and access token fields, values covered",15704164/02-import-connection-form.png
+15958660,1,API Keys page with No API keys yet and Create API key + highlighted,15958660/01-api-keys-empty.png
+15958660,2,"Create API key panel with Generate API Key highlighted, no secret shown",15958660/02-create-api-key-panel.png
+17683773,1,Write test cases.,17683773/01-write-test-cases.png
+17683773,2,Add them to a test run.,17683773/02-add-them-to-a-test-run.png
+17683773,3,Run each case and mark the result.,17683773/03-run-each-case-and-mark-the-result.png
+17683773,4,"If a case fails, file a defect.",17683773/04-if-a-case-fails-file-a-defect.png
+17683773,5,Check the dashboard to see how things are going.,17683773/05-check-the-dashboard-to-see-how-things-ar.png
+17683775,2,Click Create project +.,17683775/02-click-create-project.png
+17683775,4,"In Project key, type a key or click Generate (up to 10 characters).",17683775/04-project-key-or-generate.png
+17683775,6,"Click Next in an organization, or Save in a personal workspace.",17683775/06-next-or-save.png
+17683776,1,Click Build your team in the top bar.,17683776/01-click-build-your-team-in-the-top-bar-or.png
+17683776,2,The Invite new user panel. It notes that organizations are billed $10/user/month.,17683776/02-click-invite-user-the-invite-new-user-pa.png
+17683776,4,Pick an Organization role. It starts on Tester.,17683776/04-pick-an-organization-role-it-starts-on-t.png
+17683776,5,"Under Select project(s) to invite, pick the Project and a Project role. Add project + adds more.",17683776/05-under-select-project-s-to-invite-pick-th.png
+17683777,2,Click the new folder icon next to Test folders. Its tooltip says Add a new folder.,17683777/02-click-the-new-folder-icon-next-to-test-f.png
+17683777,3,"Type a name in Folder name, such as Cart. Click Create.",17683777/03-type-a-name-in-folder-name-such-as-cart.png
+17683777,1,"Click your folder, then click Create test case.",17683777/04-click-your-folder-then-click-create-test.png
+17683777,6,"In the Expected result box under the last step, write what the screen should show at the end. One expected result covers the whole case.",17683777/09-in-the-expected-result-box-under-the-las.png
+17683778,2,Click Edit.,17683778/02-click-edit.png
+17683778,3,"Click Add step +, then Add step. Write the new step in Step description.",17683778/03-click-add-step-then-add-step-write-the-n.png
+17683779,1,"In Test cases, click Import test cases.",17683779/01-open-your-project-then-test-cases-click.png
+17683779,2,"Pick your file type under Format, then click Next.",17683779/02-click-import-from-files-pick-your-file-t.png
+17683779,4,"Check the settings. For most files, pick Each row is a single test case.",17683779/04-check-the-settings-csv-separator-first-r.png
+17683779,6,Match your file's columns on the left to TestFiesta fields on the right.,17683779/06-match-your-file-s-columns-on-the-left-to.png
+17683780,2,Click the AI Copilot button next to the Template dropdown. The Create tab is open.,17683780/02-click-the-ai-copilot-button-next-to-the.png
+17683781,2,Click Create test run +.,17683781/02-click-create-test-run.png
+17683781,4,Pick a Start Date and a Due Date. Both are required. Next stays off until you set them.,17683781/04-pick-a-start-date-and-a-due-date-both-ar.png
+17683781,8,Click Start Run in the Progress column. A message says the run started.,17683781/08-click-start-run-in-the-progress-column-a.png
+17683782,1,Choose Failed. The Submit new status window opens.,17683782/05-choose-failed-the-submit-new-status-wind.png
+17683782,2,Pick at least one tag in Tags. Tags are required.,17683782/06-pick-at-least-one-tag-in-tags-tags-are-r.png
+17683782,5,Type a Name for the defect. It is the only required field. Add a Description. Leave Source on TestFiesta.,17683782/09-type-a-name-for-the-defect-it-is-the-onl.png
+17683782,2,Your defect is on the Open tab with the status To do.,17683782/13-your-defect-is-on-the-open-tab-with-the.png
+17683784,2,"Look at the counters for Test cases, Test runs, Test plans, and Milestones. The charts below show the split and the trend.",17683784/02-look-at-the-counters-for-test-cases-test.png
+17683784,5,Click Customize to add or remove charts. Click Back to Dashboard when done.,17683784/05-click-customize-to-add-or-remove-charts.png
+17683784,1,Click Assigned work in the top menu.,17683784/06-click-assigned-work-in-the-top-menu.png
+17683784,3,To do lists work with no result yet. Completed lists work with a final result.,17683784/08-check-to-do-for-work-with-no-result-yet.png
+NEW-add-a-custom-status,1,"Customization page, Test activity statuses tab highlighted",NEW-add-a-custom-status/01-customization-page.png
+NEW-add-a-custom-status,2,Add Status panel with Needs Review typed and Scope open,NEW-add-a-custom-status/02-add-status-scope.png
+NEW-add-a-result-rule,1,Test results tab with the Simple Result rule for Failed,NEW-add-a-result-rule/01-simple-result-rule.png
+NEW-add-a-result-rule,2,"A new rule: pick the status it applies to, Defect logging, and Manage tags.",NEW-add-a-result-rule/02-new-rule.png
+NEW-customize-your-dashboard,1,Dashboard with Last 7 days and All milestones filters highlighted,NEW-customize-your-dashboard/01-dashboard-filters.png
+NEW-customize-your-dashboard,2,Charts library with Add and Remove buttons,NEW-customize-your-dashboard/02-charts-library.png
+NEW-faq-is-there-a-reports-page,1,"Analytics page with the project selector, Default view, and Customize",NEW-faq-is-there-a-reports-page/01-analytics-page.png
+NEW-find-your-way-around-a-project,1,"Shopfront open, sidebar items highlighted",NEW-find-your-way-around-a-project/01-project-sidebar.png
+NEW-find-your-way-around-a-project,2,"Top menu with Projects, Assigned work, Analytics, Setup highlighted",NEW-find-your-way-around-a-project/02-top-menu.png
+NEW-import-test-cases-from-a-file,1,Test cases: click Import test cases to open the menu.,NEW-import-test-cases-from-a-file/01-import-menu.png
+NEW-import-test-cases-from-a-file,2,"Your chosen file with the CSV settings: separator, first row, tags separator, and row format.",NEW-import-test-cases-from-a-file/02-csv-settings.png
+NEW-import-test-cases-from-a-file,3,"Column Mapping: match your file's columns to TestFiesta fields. Drag any that did not match, such as Steps.",NEW-import-test-cases-from-a-file/03-column-mapping.png
+NEW-integrations-overview,1,"Integrations page, Available tab, cards with Add + buttons",NEW-integrations-overview/01-integrations-cards.png
+NEW-organization-settings-tour,1,Authentication page with the SSO toggle off,NEW-organization-settings-tour/01-authentication-sso.png
+NEW-organization-settings-tour,2,Automated backups Settings tab,NEW-organization-settings-tour/02-backups-settings.png
+NEW-read-the-audit-log,1,Audit Log page with columns and Export Audit Log highlighted,NEW-read-the-audit-log/01-audit-log.png
+NEW-reuse-a-step-with-shared-steps,1,Shared steps empty state with Create shared step + highlighted,NEW-reuse-a-step-with-shared-steps/01-shared-steps-empty.png
+NEW-reuse-a-step-with-shared-steps,2,Create new shared step with Step description and Expected result filled in,NEW-reuse-a-step-with-shared-steps/02-shared-step-filled.png
+NEW-reuse-a-step-with-shared-steps,3,Add step + menu with Add step and Add shared step highlighted,NEW-reuse-a-step-with-shared-steps/03-add-step-menu.png
+NEW-troubleshooting-common-problems,1,"Test runs list, one not-started run with Start Run, one started run with a progress bar",NEW-troubleshooting-common-problems/01-start-run-progress.png
+NEW-use-ai-copilot,1,"AI Copilot opens next to the form, with Create and Improve tabs.",NEW-use-ai-copilot/01-copilot-create-tab.png
+NEW-use-assigned-work,1,Assigned work To do tab with No assigned work yet,NEW-use-assigned-work/01-assigned-work-empty.png
+NEW-use-assigned-work,2,"Assigned work, Completed tab: work with a final result, such as the Failed cart case.",NEW-use-assigned-work/02-assigned-work-completed.png
+NEW-view-billing-and-invoices,1,"Billing page, Subscription tab",NEW-view-billing-and-invoices/01-billing-subscription.png
+NEW-view-billing-and-invoices,2,Billing history table,NEW-view-billing-and-invoices/02-billing-history.png
